@@ -1,22 +1,22 @@
-#Twitter Bootstrap
+# Twitter Bootstrap
 
-##Начало работы
-**Twitter Bootstrap - CSS-фреймворк. [Оф. сайт](https://getbptstrap.com).
+## Начало работы
+**Twitter Bootstrap** - CSS-фреймворк. [Оф. сайт](https://getbptstrap.com).
 
 Варианты установки:
-*CDN
-*NPM
+* CDN
+* NPM
 
-###Установка через CDN
+### Установка через CDN
 
 
 
-###Установка через NPM
+### Установка через NPM
 
-1.Выполнить команду
+1. Выполнить команду
 1. ...
 
-##Использование
+## Использование
 
 ```javascript
 console.log('message');
